@@ -1,6 +1,10 @@
 # Riset-Informatika
 Digunakan untuk menyimpan jurnal dan resume untuk mata kuliah Riset Informatika
 
+- Nama  : Marchel Adias Pradana
+- NPM   : 21081010084
+- Kelas : Riset Informatika C081
+
 ### Jenis Penelitian Menurut Sifat Permasalahannya
 ![image](https://github.com/user-attachments/assets/4012dae4-3002-40f4-80b4-ec75553d1982)
 
