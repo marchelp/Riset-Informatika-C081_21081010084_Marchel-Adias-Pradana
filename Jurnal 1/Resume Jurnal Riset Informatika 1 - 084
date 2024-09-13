@@ -1,0 +1,33 @@
+# Resume Jurnal Riset Informatika
+
+**Nama**: Marchel Adias Pradana  
+**NPM**: 21081010084  
+**Kelas**: Riset Informatika C081  
+
+## Judul Jurnal
+**Klasifikasi Penyakit Daun Pada Tanaman Jagung Menggunakan Algoritma Support Vector Machine, K-Nearest Neighbors, dan Multilayer Perceptron**
+
+- **Jenis Penelitian**: Penelitian Eksperimental  
+  Peneliti melakukan eksperimen dengan membandingkan kinerja tiga algoritma (SVM, K-NN, MLP) dalam klasifikasi penyakit daun jagung.
+
+## Latar Belakang
+Indonesia adalah negara agraris dengan jagung sebagai bahan pangan pokok. Penyakit daun seperti cercospora leaf spot, common rust, dan northern leaf blight sering menyebabkan kerugian. Deteksi dini diperlukan untuk mencegah kerugian lebih lanjut.
+
+## Tujuan
+Membandingkan performa algoritma **SVM**, **KNN**, dan **MLP** dalam mengklasifikasikan penyakit daun pada tanaman jagung menggunakan model **VGG-16** sebagai ekstraksi fitur gambar.
+
+## Metodologi
+1. **Pengumpulan Data**: Dataset berisi 8200 gambar dari Kaggle dengan empat kategori penyakit.
+2. **Preprocessing**: Gambar diubah menjadi 150x150 piksel dan menggunakan **VGG-16** untuk ekstraksi fitur.
+3. **Klasifikasi**: Menggunakan algoritma **SVM**, **KNN**, dan **MLP**.
+4. **Pengujian dan Evaluasi**: Menggunakan Confusion Matrix untuk mengukur akurasi, precision, dan recall.
+
+## Hasil
+- **MLP** memberikan performa terbaik dengan akurasi 97.4%.
+- **SVM** dan **KNN** memiliki akurasi yang lebih rendah, masing-masing 92.0% dan 95.6% pada data pelatihan, serta 93.8% dan 92.1% pada data pengujian.
+
+## Kesimpulan
+Algoritma **MLP** paling efektif dalam klasifikasi penyakit daun jagung. Penggunaan model **VGG-16** sebagai ekstraksi fitur terbukti meningkatkan performa.
+
+## Link Dataset
+[New Plant Diseases Dataset - Kaggle](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset/data)
