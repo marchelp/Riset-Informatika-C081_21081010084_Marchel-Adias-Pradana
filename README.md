@@ -14,3 +14,14 @@ Digunakan untuk menyimpan jurnal dan resume untuk mata kuliah Riset Informatika
 | -- | ----- | ----------------------------------- | ------ |
 | 1  | [Klasifikasi Penyakit Daun Pada Tanaman Jagung Menggunakan Algoritma Support Vector Machine, K-Nearest Neighbors dan Multilayer Perceptron](https://doi.org/10.52158/jacost.v4i1.484) | Penelitian Eksperimental | [Resume Jurnal Riset Informatika 1 - 084](https://github.com/marchelp/Riset-Informatika/blob/main/Resume%20Jurnal%20Riset%20Informatika%201%20-%20084.pdf) |
 | 2  | [Dynamic Structure Learning through Graph Neural Network for Forecasting Soil Moisture in Precision Agriculture](https://www.ijcai.org/proceedings/2022/720)| Penelitian Eksperimental | [Resume Jurnal Riset Informatika 2 - 084](https://github.com/marchelp/Riset-Informatika/blob/main/Resume%20Jurnal%20Riset%20Informatika%202%20-%20084.pdf) |
+
+
+### Metode dan Metodologi
+
+
+## Daftar Jurnal
+| No | Judul | Analisis Metode dan Metodologi | Review |
+| -- | ----- | ----------------------------------- | ------ |
+| 1  | [Deep Convolutional Neural Network-Based Approaches for Face Recognition](https://doi.org/10.3390/app9204397) | -- | [Resume Jurnal Riset Informatika Metode dan Metodologi 1 - 084](--) |
+| 2  | [Presensi Kelas Berbasis Pola Wajah,Senyum dan Wi-Fi Terdekat denganDeep Learning](https://doi.org/10.29207/resti.v5i1.2575)| -- | [Resume Jurnal Riset Informatika Metode dan Metodologi 2 - 084](--) |
+| 3  | [Absensi Dengan Pengenalan Wajah Menggunakan Convolutional Neural Network (CNN) Dan Euclidean Distance](https://kti.potensi-utama.org/index.php/JID/article/view/1357)| -- | [Resume Jurnal Riset Informatika Metode dan Metodologi 3 - 084](--) |
