@@ -20,8 +20,8 @@ Digunakan untuk menyimpan jurnal dan resume untuk mata kuliah Riset Informatika
 
 
 ## Daftar Jurnal
-| No | Judul | Analisis Metode dan Metodologi | Review |
-| -- | ----- | ----------------------------------- | ------ |
-| 1  | [Deep Convolutional Neural Network-Based Approaches for Face Recognition](https://doi.org/10.3390/app9204397) | AlexNet/ResNet CNN + SVM | [Analisis Metode dan Metodologi Jurnal Riset Informatika - 084](https://github.com/marchelp/Riset-Informatika/blob/main/Analisis%20Metode%20dan%20Metodologi%20Jurnal%20Riset%20Informatika%20-%20084.pdf) |
-| 2  | [Presensi Kelas Berbasis Pola Wajah,Senyum dan Wi-Fi Terdekat denganDeep Learning](https://doi.org/10.29207/resti.v5i1.2575)| FaceNet CNN | [Analisis Metode dan Metodologi Jurnal Riset Informatika - 084](https://github.com/marchelp/Riset-Informatika/blob/main/Analisis%20Metode%20dan%20Metodologi%20Jurnal%20Riset%20Informatika%20-%20084.pdf) |
-| 3  | [Absensi Dengan Pengenalan Wajah Menggunakan Convolutional Neural Network (CNN) Dan Euclidean Distance](https://kti.potensi-utama.org/index.php/JID/article/view/1357)| CNN + Euclidean Distance | [Analisis Metode dan Metodologi Jurnal Riset Informatika - 084](https://github.com/marchelp/Riset-Informatika/blob/main/Analisis%20Metode%20dan%20Metodologi%20Jurnal%20Riset%20Informatika%20-%20084.pdf) |
+| No | Judul | Analisis Metode dan Metodologi | Jenis Penelitian | Review |
+| -- | ----- | ------------------------------ | ---------------- | ------ |
+| 1  | [Deep Convolutional Neural Network-Based Approaches for Face Recognition](https://doi.org/10.3390/app9204397) | AlexNet/ResNet CNN + SVM | Terapan | [Analisis Metode dan Metodologi Jurnal Riset Informatika - 084](https://github.com/marchelp/Riset-Informatika/blob/main/Analisis%20Metode%20dan%20Metodologi%20Jurnal%20Riset%20Informatika%20-%20084.pdf) |
+| 2  | [Presensi Kelas Berbasis Pola Wajah,Senyum dan Wi-Fi Terdekat denganDeep Learning](https://doi.org/10.29207/resti.v5i1.2575)| FaceNet CNN | Terapan | [Analisis Metode dan Metodologi Jurnal Riset Informatika - 084](https://github.com/marchelp/Riset-Informatika/blob/main/Analisis%20Metode%20dan%20Metodologi%20Jurnal%20Riset%20Informatika%20-%20084.pdf) |
+| 3  | [Absensi Dengan Pengenalan Wajah Menggunakan Convolutional Neural Network (CNN) Dan Euclidean Distance](https://kti.potensi-utama.org/index.php/JID/article/view/1357)| CNN + Euclidean Distance | Terapan | [Analisis Metode dan Metodologi Jurnal Riset Informatika - 084](https://github.com/marchelp/Riset-Informatika/blob/main/Analisis%20Metode%20dan%20Metodologi%20Jurnal%20Riset%20Informatika%20-%20084.pdf) |
