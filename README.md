@@ -32,6 +32,7 @@ Digunakan untuk menyimpan jurnal dan resume untuk mata kuliah Riset Informatika
 | 6  | [CNN Variants for Computer Vision: History, Architecture, Application, Challenges and Future Scope](https://doi.org/10.3390/electronics10202470)| CNN | Murni | [Analisis Metode dan Metodologi Jurnal Riset Informatika - 084](https://github.com/marchelp/Riset-Informatika/blob/main/Analisis%20Metode%20dan%20Metodologi%20Jurnal%20Riset%20Informatika%20-%20084.pdf) |
 
 ## Topik Riset Informatika yang Saya Pertimbangkan
+### [PENELITIAN RISET INFORMATIKA - 084](https://github.com/marchelp/Riset-Informatika-C081_21081010084_Marchel-Adias-Pradana/blob/main/PENELITIAN%20RISET%20INFORMATIKA%20-%20084.docx)
 | Judul 1 | Deteksi Wajah untuk Absensi Menggunakan CNN VGG16 dengan Pendekatan Continuous Learning |
 | -- | -- |
 | Latar Belakang | Saya memilih topik "Deteksi Wajah untuk Absensi Menggunakan CNN VGG16 dengan Pendekatan Continuous Learning" karena relevansinya dalam memanfaatkan teknologi terbaru untuk meningkatkan efisiensi sistem absensi berbasis wajah. Penelitian ini menggunakan metode Convolutional Neural Network (CNN) dengan arsitektur VGG16 untuk deteksi wajah, bertujuan mengatasi tantangan dalam akurasi dan kecepatan deteksi, serta memberikan solusi inovatif untuk proses pencatatan kehadiran dengan pendekatan Continous Learning. Ketertarikan saya berasal dari potensi aplikasi praktis teknologi ini, yang tidak hanya dapat memperbaiki manajemen absensi tetapi juga memberikan kontribusi positif terhadap sistem yang lebih efisien dan modern. |
