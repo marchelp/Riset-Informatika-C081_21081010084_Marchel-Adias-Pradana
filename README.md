@@ -35,14 +35,14 @@ Digunakan untuk menyimpan jurnal dan resume untuk mata kuliah Riset Informatika
 | Judul 1 | Deteksi Wajah untuk Absensi Menggunakan CNN VGG16 dengan Pendekatan Continuous Learning |
 | -- | -- |
 | Latar Belakang | Saya memilih topik "Deteksi Wajah untuk Absensi Menggunakan CNN VGG16 dengan Pendekatan Continuous Learning" karena relevansinya dalam memanfaatkan teknologi terbaru untuk meningkatkan efisiensi sistem absensi berbasis wajah. Penelitian ini menggunakan metode Convolutional Neural Network (CNN) dengan arsitektur VGG16 untuk deteksi wajah, bertujuan mengatasi tantangan dalam akurasi dan kecepatan deteksi, serta memberikan solusi inovatif untuk proses pencatatan kehadiran dengan pendekatan Continous Learning. Ketertarikan saya berasal dari potensi aplikasi praktis teknologi ini, yang tidak hanya dapat memperbaiki manajemen absensi tetapi juga memberikan kontribusi positif terhadap sistem yang lebih efisien dan modern. |
-| Pembahasan | []() |
+| Jurnal Acuan | [Presensi Kelas Berbasis Pola Wajah,Senyum dan Wi-Fi Terdekat denganDeep Learning](https://doi.org/10.29207/resti.v5i1.2575) |
   
 | Judul 2 | Optimasi Sistem Absensi Berbasis Web dengan Deteksi Wajah Menggunakan VGG16 dan ResNet |
 | -- | -- |
 | Latar Belakang | Saya memilih topik "Optimasi Sistem Absensi Berbasis Web dengan Deteksi Wajah Menggunakan VGG16 dan ResNet" karena relevansinya dalam memanfaatkan teknologi terbaru untuk meningkatkan efisiensi sistem absensi. Penelitian ini menggunakan metode Convolutional Neural Network (CNN) untuk deteksi wajah, bertujuan mengatasi tantangan dalam akurasi dan kecepatan deteksi, serta memberikan solusi inovatif untuk proses pencatatan kehadiran. Ketertarikan saya berasal dari potensi aplikasi praktis teknologi ini, yang tidak hanya dapat memperbaiki manajemen absensi tetapi juga memberikan kontribusi positif terhadap sistem yang lebih efisien dan modern. |
-| Pembahasan | []() |
+| Jurnal Acuan | [Presensi Kelas Berbasis Pola Wajah,Senyum dan Wi-Fi Terdekat denganDeep Learning](https://doi.org/10.29207/resti.v5i1.2575) |
 
-| Judul 3 | Deteksi Dini Autisme Wajah Anak Berbasis Citra dengan CNN (Keep) |
+| Judul 3 | Klasifikasi Stunting Anak Menggunakan Decision Tree C4.5 |
 | -- | -- |
-| Latar Belakang |  |
-| Pembahasan | []() |
+| Latar Belakang | -- |
+| Jurnal Acuan | [Classification of Stunting in Children Using the C4.5 Algorithm](https://doi.org/10.15575/join.v8i1.1062) |
