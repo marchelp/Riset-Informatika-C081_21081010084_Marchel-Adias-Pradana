@@ -5,6 +5,8 @@ Digunakan untuk menyimpan jurnal dan resume untuk mata kuliah Riset Informatika
 - NPM   : 21081010084
 - Kelas : Riset Informatika C081
 
+## Referensi
+
 ### Jenis Penelitian Menurut Sifat Permasalahannya
 ![image](https://github.com/user-attachments/assets/4012dae4-3002-40f4-80b4-ec75553d1982)
 
@@ -27,3 +29,16 @@ Digunakan untuk menyimpan jurnal dan resume untuk mata kuliah Riset Informatika
 | 3  | [Absensi Dengan Pengenalan Wajah Menggunakan Convolutional Neural Network (CNN) Dan Euclidean Distance](https://kti.potensi-utama.org/index.php/JID/article/view/1357)| CNN + Euclidean Distance | Terapan | [Analisis Metode dan Metodologi Jurnal Riset Informatika - 084](https://github.com/marchelp/Riset-Informatika/blob/main/Analisis%20Metode%20dan%20Metodologi%20Jurnal%20Riset%20Informatika%20-%20084.pdf) |
 | 4  | [Pengenalan Emosi pada Citra wajah menggunakan Metode YOLO](https://doi.org/10.30645/kesatria.v5i3.444)| YOLO | Terapan | [Analisis Metode dan Metodologi Jurnal Riset Informatika - 084](https://github.com/marchelp/Riset-Informatika/blob/main/Analisis%20Metode%20dan%20Metodologi%20Jurnal%20Riset%20Informatika%20-%20084.pdf) |
 | 5  | [Pengembangan Model Deep Learning Untuk Pengenalan Wajah pada Sistem Keamanan](https://doi.org/10.5281/zenodo.10881284)| CNN | Terapan | [Analisis Metode dan Metodologi Jurnal Riset Informatika - 084](https://github.com/marchelp/Riset-Informatika/blob/main/Analisis%20Metode%20dan%20Metodologi%20Jurnal%20Riset%20Informatika%20-%20084.pdf) |
+
+## Topik Riset Informatika yang Saya Pertimbangkan
+### Deteksi Wajah untuk Absensi Menggunakan CNN VGG16 dengan Pendekatan Continuous Learning
+| Poin | Penjelasan |
+| -- | -- |
+| Latar Belakang | Saya memilih topik "Deteksi Wajah untuk Absensi Menggunakan CNN VGG16 dengan Pendekatan Continuous Learning" karena relevansinya dalam memanfaatkan teknologi terbaru untuk meningkatkan efisiensi sistem absensi berbasis wajah. Penelitian ini menggunakan metode Convolutional Neural Network (CNN) dengan arsitektur VGG16 untuk deteksi wajah, bertujuan mengatasi tantangan dalam akurasi dan kecepatan deteksi, serta memberikan solusi inovatif untuk proses pencatatan kehadiran dengan pendekatan Continous Learning. Ketertarikan saya berasal dari potensi aplikasi praktis teknologi ini, yang tidak hanya dapat memperbaiki manajemen absensi tetapi juga memberikan kontribusi positif terhadap sistem yang lebih efisien dan modern. |
+  
+### Optimasi Sistem Absensi Berbasis Web dengan Deteksi Wajah Menggunakan VGG16 dan ResNet
+| Poin | Penjelasan |
+| -- | -- |
+| Latar Belakang | Saya memilih topik "Optimasi Sistem Absensi Berbasis Web dengan Deteksi Wajah Menggunakan VGG16 dan ResNet" karena relevansinya dalam memanfaatkan teknologi terbaru untuk meningkatkan efisiensi sistem absensi. Penelitian ini menggunakan metode Convolutional Neural Network (CNN) untuk deteksi wajah, bertujuan mengatasi tantangan dalam akurasi dan kecepatan deteksi, serta memberikan solusi inovatif untuk proses pencatatan kehadiran. Ketertarikan saya berasal dari potensi aplikasi praktis teknologi ini, yang tidak hanya dapat memperbaiki manajemen absensi tetapi juga memberikan kontribusi positif terhadap sistem yang lebih efisien dan modern. |
+  
+### Deteksi Dini Autisme Wajah Anak Berbasis Citra dengan CNN (Keep)
