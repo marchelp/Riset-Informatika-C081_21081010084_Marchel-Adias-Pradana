@@ -31,14 +31,17 @@ Digunakan untuk menyimpan jurnal dan resume untuk mata kuliah Riset Informatika
 | 5  | [Pengembangan Model Deep Learning Untuk Pengenalan Wajah pada Sistem Keamanan](https://doi.org/10.5281/zenodo.10881284)| CNN | Terapan | [Analisis Metode dan Metodologi Jurnal Riset Informatika - 084](https://github.com/marchelp/Riset-Informatika/blob/main/Analisis%20Metode%20dan%20Metodologi%20Jurnal%20Riset%20Informatika%20-%20084.pdf) |
 
 ## Topik Riset Informatika yang Saya Pertimbangkan
-### Deteksi Wajah untuk Absensi Menggunakan CNN VGG16 dengan Pendekatan Continuous Learning
-| Poin | Penjelasan |
+| Judul 1 | Deteksi Wajah untuk Absensi Menggunakan CNN VGG16 dengan Pendekatan Continuous Learning |
 | -- | -- |
 | Latar Belakang | Saya memilih topik "Deteksi Wajah untuk Absensi Menggunakan CNN VGG16 dengan Pendekatan Continuous Learning" karena relevansinya dalam memanfaatkan teknologi terbaru untuk meningkatkan efisiensi sistem absensi berbasis wajah. Penelitian ini menggunakan metode Convolutional Neural Network (CNN) dengan arsitektur VGG16 untuk deteksi wajah, bertujuan mengatasi tantangan dalam akurasi dan kecepatan deteksi, serta memberikan solusi inovatif untuk proses pencatatan kehadiran dengan pendekatan Continous Learning. Ketertarikan saya berasal dari potensi aplikasi praktis teknologi ini, yang tidak hanya dapat memperbaiki manajemen absensi tetapi juga memberikan kontribusi positif terhadap sistem yang lebih efisien dan modern. |
+| Pembahasan | []() |
   
-### Optimasi Sistem Absensi Berbasis Web dengan Deteksi Wajah Menggunakan VGG16 dan ResNet
-| Poin | Penjelasan |
+| Judul 2 | Optimasi Sistem Absensi Berbasis Web dengan Deteksi Wajah Menggunakan VGG16 dan ResNet |
 | -- | -- |
 | Latar Belakang | Saya memilih topik "Optimasi Sistem Absensi Berbasis Web dengan Deteksi Wajah Menggunakan VGG16 dan ResNet" karena relevansinya dalam memanfaatkan teknologi terbaru untuk meningkatkan efisiensi sistem absensi. Penelitian ini menggunakan metode Convolutional Neural Network (CNN) untuk deteksi wajah, bertujuan mengatasi tantangan dalam akurasi dan kecepatan deteksi, serta memberikan solusi inovatif untuk proses pencatatan kehadiran. Ketertarikan saya berasal dari potensi aplikasi praktis teknologi ini, yang tidak hanya dapat memperbaiki manajemen absensi tetapi juga memberikan kontribusi positif terhadap sistem yang lebih efisien dan modern. |
-  
-### Deteksi Dini Autisme Wajah Anak Berbasis Citra dengan CNN (Keep)
+| Pembahasan | []() |
+
+| Judul 3 | Deteksi Dini Autisme Wajah Anak Berbasis Citra dengan CNN (Keep) |
+| -- | -- |
+| Latar Belakang |  |
+| Pembahasan | []() |
