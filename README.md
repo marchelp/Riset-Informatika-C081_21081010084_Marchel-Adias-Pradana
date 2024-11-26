@@ -21,8 +21,7 @@ Link Presentasi Judul Riset Informatika (25/11/2024) : [PENGGUNAAN TEKNIK SMOTE-
 ### Skripsi Acuan
 | No | Judul | Publikasi |
 | -- | ----- | --------- |
-| 1  | ANALISIS PENGGUNAAN TEKNIK OVERSAMPLING PADA EXTREME GRADIENT BOOSTING (XGBOOST) UNTUK MENGATASI KETIDAKSEIMBANGAN KELAS PADA KLASIFIKASI PENYAKIT JANTUNG | 
-[Repository UPNVJT](https://repository.upnjatim.ac.id/id/eprint/29622) |
+| 1  | ANALISIS PENGGUNAAN TEKNIK OVERSAMPLING PADA EXTREME GRADIENT BOOSTING (XGBOOST) UNTUK MENGATASI KETIDAKSEIMBANGAN KELAS PADA KLASIFIKASI PENYAKIT JANTUNG | [Repository UPNVJT](https://repository.upnjatim.ac.id/id/eprint/29622) |
 
 ### Jenis Penelitian Menurut Sifat Permasalahannya
 ![image](https://github.com/user-attachments/assets/4012dae4-3002-40f4-80b4-ec75553d1982)
