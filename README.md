@@ -5,6 +5,9 @@ Digunakan untuk menyimpan jurnal dan resume untuk mata kuliah Riset Informatika
 - NPM   : 21081010084
 - Kelas : Riset Informatika C081
 
+## Progres
+Link Presentasi Judul Riset Informatika (25/11/2024) : [PENGGUNAAN TEKNIK SMOTE-ENN UNTUK BALANCING DATA DALAM KLASIFIKASI PENYAKIT JANTUNG DENGAN METODE EXTREME GRADIENT BOOSTING (XGBOOST)](https://www.canva.com/design/DAGXZ8E0OfE/NfYI8wpmcN278xbc_QpE6A/edit?utm_content=DAGXZ8E0OfE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 ## Referensi
 
 ### Jenis Penelitian Menurut Sifat Permasalahannya
