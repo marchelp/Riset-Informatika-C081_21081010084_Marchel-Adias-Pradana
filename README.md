@@ -10,6 +10,20 @@ Link Presentasi Judul Riset Informatika (25/11/2024) : [PENGGUNAAN TEKNIK SMOTE-
 
 ## Referensi
 
+### Jurnal Acuan Utama
+| No | Judul | DOI | Publikasi |
+| -- | ----- | --- | --------- |
+| 1  | A Heart Disease Prediction Model Based on Feature Optimization and Smote-Xgboost Algorithm | https://doi.org/10.3390/info13100475 | [Scopus Q2](https://www.scimagojr.com/journalsearch.php?q=21100223111&tip=sid) |
+| 2  | A New Approach of Hybrid Sampling SMOTE and ENN to the Accuracy of Machine Learning Methods on Unbalanced Diabetes Disease Data | https://dx.doi.org/10.14569/IJACSA.2023.0140864 | [Scopus Q3](https://www.scimagojr.com/journalsearch.php?q=21100867241&tip=sid) |
+| 3  | Detection of Ionospheric Scintillation Based on XGBoost Model Improved by SMOTE-ENNTechnique | https://doi.org/10.3390/rs13132577 | [Scopus Q1](https://www.scimagojr.com/journalsearch.php?q=12503&tip=sid) | 
+| 4  | Towards Imbalanced Image Classification: A Generative Adversarial Network Ensemble Learning Method | http://dx.doi.org/10.1109/ACCESS.2020.2992683 | [Scopus Q1](https://www.scimagojr.com/journalsearch.php?q=21100374601&tip=sid) |
+
+### Skripsi Acuan
+| No | Judul | Publikasi |
+| -- | ----- | --------- |
+| 1  | ANALISIS PENGGUNAAN TEKNIK OVERSAMPLING PADA EXTREME GRADIENT BOOSTING (XGBOOST) UNTUK MENGATASI KETIDAKSEIMBANGAN KELAS PADA KLASIFIKASI PENYAKIT JANTUNG | 
+[Repository UPNVJT](https://repository.upnjatim.ac.id/id/eprint/29622) |
+
 ### Jenis Penelitian Menurut Sifat Permasalahannya
 ![image](https://github.com/user-attachments/assets/4012dae4-3002-40f4-80b4-ec75553d1982)
 
