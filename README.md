@@ -1,12 +1,15 @@
 # Riset-Informatika
-Digunakan untuk menyimpan jurnal dan resume untuk mata kuliah Riset Informatika
+Tugas Akhir Pengumpulan Proposal Riset
 
 - Nama  : Marchel Adias Pradana
 - NPM   : 21081010084
 - Kelas : Riset Informatika C081
 
-## Progres
+## Progress
 Link Presentasi Judul Riset Informatika (25/11/2024) : [PENGGUNAAN TEKNIK SMOTE-ENN UNTUK BALANCING DATA DALAM KLASIFIKASI PENYAKIT JANTUNG DENGAN METODE EXTREME GRADIENT BOOSTING (XGBOOST)](https://www.canva.com/design/DAGXZ8E0OfE/NfYI8wpmcN278xbc_QpE6A/edit?utm_content=DAGXZ8E0OfE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+## Code 
+Contoh Code yang telah saya buat : [SMOTEENN+XGBOOST](https://colab.research.google.com/drive/1HV2SNonsskOulJw_nIkRDzwUlOKEme2Z?usp=sharing)
 
 ## Referensi
 
